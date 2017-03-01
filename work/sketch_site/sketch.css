@@ -1,0 +1,31 @@
+.header{
+	margin: auto;
+	color:green;
+	text-align: center;
+	border:1px solid green;
+	border-radius:10px;
+	box-shadow: 2px 2px darkgrey;
+	width: 95%;
+}
+
+.main{
+	height:960px;
+	width: 960px;
+	border:1px solid black;
+	margin:auto;
+	margin-top: 10px;
+	
+	
+}
+.control{
+	text-align: center;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.footer{
+	text-align: center;
+	margin: auto;
+	clear: both;
+
+}

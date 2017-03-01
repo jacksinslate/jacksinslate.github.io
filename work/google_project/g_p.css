@@ -1,0 +1,64 @@
+/*{
+	border: 1px dashed blue; 
+}*/
+
+.top_banner{
+	text-align: right;
+	width:100%;
+	height:50px;
+}
+
+.top_banner button{
+	border-radius: 0px;
+	background-color: blue;
+	color: white;
+}
+a {
+	text-decoration: none;
+	font-size: 0.8em;
+	color:gray;
+}
+.main {
+	display: inline-block;
+	text-align: center;
+	height: 90%;	
+	width: 100%;
+	vertical-align: middle;
+	margin-bottom: 22%;
+}
+.main img{
+	height: 92px;
+	width: 292px;
+	position:center;
+	padding-top: 9%;
+	vertical-align: middle;
+}
+
+form input{
+	border: 1px solid gray;
+	width:40%;
+}
+.main button{
+	margin-top: 5px;
+}
+.footer{
+	display: inline;
+	clear:both;
+	height:5%;
+	margin-top: 50%;
+}
+.left_foot{
+	text-align: left;
+	width:30%;
+	float: left;
+	display: inline;
+}
+.right_foot{
+	text-align: right;
+	width:30%;
+	float:right;
+	display: inline;
+}
+a:hover{
+	text-decoration: underline;
+}
